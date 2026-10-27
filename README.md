@@ -1,16 +1,25 @@
-## Hi there 👋
+Zunairah Ansari
 
-<!--
-**zunairah-ansari/zunairah-ansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FYBSc Computer Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+About Me:
+I am a first-year BSc Computer Science student with an interest in programming and software development. I am currently learning Python and exploring Database Management Systems (DBMS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building small projects that help me strengthen my programming fundamentals and apply what I learn in practical ways. I am continuously working to improve my problem-solving skills and develop my technical knowledge.
+
+Skills and Interests:
+- Python (Beginner)
+- Database Management Systems (DBMS)
+- Programming fundamentals
+- Beginner project development
+
+Projects:
+Deadline Rescue — A Python-based task and deadline manager that helps users organize tasks, manage priorities, track deadlines, and save their progress.
+
+"View project on GitHub" (https://github.com/zunairah-ansari/deadline-rescue)
+
+Current Goals:
+- Strengthen my Python programming skills
+- Learn DBMS concepts
+- Build more practical projects
+- Explore different areas of computer science
